@@ -1,4 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://constructionnewsreview.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://constructionnewsreview.com/</loc>
+		<lastmod>2026-08-03</lastmod>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/news.html</loc>
+		<lastmod>2026-08-03</lastmod>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/equipment.html</loc>
+		<lastmod>2026-08-03</lastmod>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/property.html</loc>
+		<lastmod>2026-08-03</lastmod>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/blog.html</loc>
+		<lastmod>2026-08-03</lastmod>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/news/saudi-opens-bidding-process-for-third-round-of-gas-fired-power-projects.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>Saudi opens bidding process for third round of gas-fired power projects</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/news/cgc-awarded-contract-for-us-516mn-water-treatment-in-kuwait.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>CGC awarded contract for US $516mn water treatment project in Kuwait</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/news/rta-opens-new-major-3-lane-bridge.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>RTA opens new major 3-lane bridge</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/property/4-factors-driving-abu-dhabi-property-boom-and-future-growth.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>4 factors driving Abu Dhabi property boom and future growth</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/property/alef-sells-out-first-phase-of-linar.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>Alef sells out first phase of Linar</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/property/australia-sudden-housing-chill-seeps-into-economy.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>Australia sudden housing chill seeps into economy</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/property/canada-slashed-migration-and-housing-costs-dropped.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>Canada slashed migration and housing costs dropped.</news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://constructionnewsreview.com/p/property/the-25-most-expensive-homes-in-the-world-for-sale.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>CNR Admin</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-08-03</news:publication_date>
+			<news:title>The 25 Most Expensive Homes in the World for Sale</news:title>
+		</news:news>
+	</url>
 </urlset>
